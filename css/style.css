@@ -2803,7 +2803,7 @@ nav h1 .navbar-brand {
     display: block;
     width: 218px;
     height: 50px;
-    background-image: url(/images/logo.png);
+    background-image: url(images/logo.png);
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
