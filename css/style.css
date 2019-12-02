@@ -2797,8 +2797,7 @@ Back To Top Section
       position: relative;
       top: 0; } }
 
-nav h1 .navbar-brand {
-    /*padding: 25px;*/
+/* nav h1 .navbar-brand {
     box-sizing: content-box;
     display: block;
     width: 218px;
@@ -2806,7 +2805,7 @@ nav h1 .navbar-brand {
     background-image: url(images/logo.png);
     background-repeat: no-repeat;
     background-position: 50% 50%;
-}
+} */
 
 /*!!!!!!!!!!!!!!!POPUP FORM!!!!!!!!!!!!!!!!*/
 #contact { 
