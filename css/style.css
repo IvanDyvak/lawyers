@@ -602,7 +602,7 @@ ul {
   margin-top: 0;
   padding-bottom: 5px;
   position: relative;
-  color: #00aeef; 
+  color: #0048ff; 
 }
   .section-heading:after {
     content: ''; }
@@ -1112,7 +1112,7 @@ SOSMED-ICON
   -ms-border-radius: 4px;
   border-radius: 4px;
   color: #fff;
-  background-color: #00aeef;
+  background-color: #0048ff;
   margin: 0 2px; }
   .sosmed-icon.icon-bg-secondary a:hover {
     color: #223555;
@@ -1297,7 +1297,7 @@ ICON 2
       top: 0;
       left: 0;
       background: rgb(0, 0, 0);
-      background: #00aeef;
+      background: #0048ff;
       color: #f1f1f1; 
       width: 100%;
       transition: .5s ease;
@@ -2632,7 +2632,7 @@ Back To Top Section
  */
 /* 4.1 - NAVBAR */
 .topbar {
-  background-color: #00aeef;
+  background-color: #0048ff;
   color: #fff;
   font-family: "Lora", serif; 
   padding: .5em;}
@@ -2878,15 +2878,15 @@ Back To Top Section
           margin-top: -.6rem;
           cursor: pointer;
     }
-#frontPractice{
+/* #frontPractice{
   padding: 40px 0;
-}
+} */
 #testimonials{
   background: #eee;
 }
 #testimonials .feedback{
     padding: 1rem;
-    background: #00aeef;
+    background: #0048ff;
     border-radius: .25rem;
 }
 #question{
@@ -3440,7 +3440,7 @@ margin-left: 1rem;}
   position: relative;
   z-index: 2;
   padding: 30px;
-  background-color: #00aeef; 
+  background-color: #0048ff; 
   border-radius: .3rem;
 }
   @media (max-width: 767px) {
