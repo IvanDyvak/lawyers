@@ -1280,7 +1280,9 @@ ICON 2
   padding: 20px;
   box-shadow: 0px 0px 10px 2px rgb(34, 53, 85);
   height: 100%; 
-  transition: .5s ease;}
+  transition: .5s ease;
+  /*background: #212121 url(../images/net.png) repeat;*/
+}
   .box-icon-1 .icon {
     color: #949699;
     display: inline-block;
@@ -1289,7 +1291,7 @@ ICON 2
     width: 60px;
     height: 60px; }
   .box-icon-1 .body-content h1, .box-icon-1 .body-content h2, .box-icon-1 .body-content .banner-page .title-page, .banner-page .box-icon-1 .body-content .title-page, .box-icon-1 .body-content h3, .box-icon-1 .body-content h4, .box-icon-1 .body-content .rs-team-1 .title, .rs-team-1 .box-icon-1 .body-content .title, .box-icon-1 .body-content .rs-team-single .title, .rs-team-single .box-icon-1 .body-content .title, .box-icon-1 .body-content h5 {
-    font-weight: 700;
+    font-weight: 400;
     color: #222222; }
    .box-icon-1 .overlay {
       position: absolute; 
