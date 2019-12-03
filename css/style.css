@@ -1317,8 +1317,8 @@ ICON 2
       bottom: 0;
       top: 0;
       left: 0;
-      /*background: #0048ff;*/
-      background: linear-gradient(146.92deg,#a8dcea 0,#52bad5 31.79%,#23bdac 72.03%,#02bf8f 100%);
+      background: #0048ff;
+/*       background: linear-gradient(146.92deg,#a8dcea 0,#52bad5 31.79%,#23bdac 72.03%,#02bf8f 100%); */
       color: #f1f1f1; 
       width: 100%;
       transition: .5s ease;
