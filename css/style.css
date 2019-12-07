@@ -2980,7 +2980,8 @@ Back To Top Section
     background: #0048ff;
     border-radius: .25rem;
 }
-#question{
+#question,
+.question{
   background: linear-gradient(40deg, rgba(67, 138, 243, 0.7), rgba(255, 242, 166, 0.7));
 }
 
