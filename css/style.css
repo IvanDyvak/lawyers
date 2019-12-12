@@ -1009,7 +1009,7 @@ width: -webkit-fill-available;}
 }
 
 .flip-card-back {
-  background-color: #2980b9;
+  background-color: #1b4196;
   padding: .5rem .2rem;
   border-radius: .5rem;
   color: white;
@@ -1343,7 +1343,7 @@ ICON 2
   box-shadow: 1px 1px 8px 4px #DDD;
   height: 100%; 
   transition: .5s ease;
-  background: linear-gradient(146.92deg,#00aeef 0,#00aeef 31.79%,#0048ff 72.03%,#00aeef 100%);
+  background: linear-gradient(146.92deg,#1b4196 0,#00aeef 31.79%,#0048ff 72.03%,#1b4196 100%);
   border-radius: .4rem
 }
 
@@ -2724,7 +2724,7 @@ Back To Top Section
  */
 /* 4.1 - NAVBAR */
 .topbar {
-  background-color: #0048ff;
+  background-color: #1b4196;
   color: #fff;
   font-family: "Lora", serif; 
   padding: .5em;}
@@ -2978,7 +2978,7 @@ Back To Top Section
 }
 #testimonials .feedback{
     padding: 1rem;
-    background: #0048ff;
+    background: #1b4196;
     border-radius: .25rem;
 }
 #question,
@@ -3533,7 +3533,7 @@ margin-left: 1rem;}
   position: relative;
   z-index: 2;
   padding: 30px;
-  background-color: #0048ff; 
+  background-color: #1b4196; 
   border-radius: .3rem;
 }
   @media (max-width: 767px) {
@@ -3845,7 +3845,7 @@ margin-left: 1rem;}
  * -----------------------------------------------------------------------------
  */
 .footer {
-  background-color: #0048ff;
+  background-color: #1b4196;
   color: #ffffff;
   background-size: cover;
   background-position: center; }
