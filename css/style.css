@@ -1053,6 +1053,9 @@ width: -webkit-fill-available;}
   color: white;
   transform: translateX(-100%) rotateY(-180deg);
 }
+.flip-card-back .borderBtm{
+  border-bottom: 1px dotted #fff;
+}
 .flip-card img{
   box-shadow: 0 0.5em 2em 0 rgba(27,41,42,.25);
 }
@@ -1380,7 +1383,7 @@ ICON 2
 .box-icon-1 {
   margin-bottom: 15px;
   text-align: center;
-  padding: 20px;
+  padding: 25px;
   border: 1px solid #D9EBF3;
   box-shadow: 1px 1px 8px 4px #DDD;
   height: 100%; 
