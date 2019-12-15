@@ -1383,7 +1383,7 @@ ICON 2
 .box-icon-1 {
   margin-bottom: 15px;
   text-align: center;
-  padding: 35px;
+  padding: 29px;
   border: 1px solid #D9EBF3;
   box-shadow: 1px 1px 8px 4px #DDD;
   height: 100%; 
@@ -1392,23 +1392,7 @@ ICON 2
   border-radius: .4rem
 }
 
-/*.box-icon-1 h3:before{
-    position: absolute;
-    left: 1.5rem;
-    top: .25rem;
-    content: "■ ";
-    color: #A0C3CC;
-    font-size: .75rem;
-    top: .2rem;
-}
-.box-icon-1 h3:after{
-    position: absolute;
-    right: .5rem;
-    top: .25rem;
-    content: "■ ";
-    color: #A0C3CC;
-    font-size: .75rem;
-}*/
+
   .box-icon-1 .icon {
     color: #fff;
     display: inline-block;
@@ -1430,11 +1414,11 @@ ICON 2
       opacity: 0;
       visibility: hidden;
       transform-origin: top center;
-      transform: scale3d(1, 0, 1);
+      transform: scale3d(0, 1, 1);
       transition: .7s;
-      padding: 1rem .2rem;
+      padding: .7rem .2rem;
       border-radius: 2%;
-      line-height: 1.4rem;
+      line-height: 1.1rem;
 }
 
 .box-icon-1:hover .overlay {
